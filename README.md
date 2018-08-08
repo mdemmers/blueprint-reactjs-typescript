@@ -6,6 +6,7 @@ Features including:
 - ReactJS
 - Redux
 - Typescript
-- Async/await
+- Cancelable Async/await api calls with axios
+- IoC with InversifyJS
 - Webpack4
 - Webpack aliases (using relative paths for own code like import { SomeClass } from '@core/infrastructure';
