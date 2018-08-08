@@ -1,6 +1,6 @@
 # blueprint-reactjs-typescript
 
-A blueprint project for getting up and running quickly with ReactJS, Redux and Typescript. Providing a solution architecture for "large" enterprise frontend applications.
+A blueprint project for getting up and running quickly with ReactJS, Redux and Typescript. Providing a clean solution architecture for "large" enterprise frontend applications.
 
 Features including:
 - ReactJS
